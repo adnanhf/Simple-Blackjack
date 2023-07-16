@@ -1,9 +1,3 @@
-'''
-This file would written as exercise
-to mastering python. This file would
-always be overwritten.
-'''
-
 import random
 from os import system
 
